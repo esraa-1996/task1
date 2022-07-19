@@ -1,0 +1,19 @@
+body{
+    font-family: arial;
+    font-size: 20px;
+    margin: 0;
+    background:black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 50vh;
+}
+.texts p {
+    color: black;
+    text-align: right;
+    width: 100%;
+    background-color: white;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
